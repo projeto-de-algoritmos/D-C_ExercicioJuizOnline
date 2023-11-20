@@ -28,6 +28,11 @@ Exercícios Resolvidos:
 ![Exercício 2 descrição](image-2.png)
 ![Exercício 2 resultado](image-3.png)
 
+### 43. Multiply Strings
+
+![Exercício 3 descrição](3-problema.png)
+![Exercício 3 resultado](3-resultado.png)
+
 
 ## Instalação 
 **Linguagem**: C/Python<br>
