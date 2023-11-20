@@ -15,6 +15,8 @@ Exercícios Resolvidos:
 | -- | -- | -- |
 | [775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)  |  Medium | Leetcode |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)  |  Hard | Leetcode |
+| [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)  |  Medium | Leetcode |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  |  Medium | Leetcode |
 
 ## Screenshots
 
@@ -32,6 +34,11 @@ Exercícios Resolvidos:
 
 ![Exercício 3 descrição](3-problema.png)
 ![Exercício 3 resultado](3-resultado.png)
+
+### 53. Maximum Subarray
+
+![Exercício 4 descrição](4-problema.png)
+![Exercício 4 resultado](4-resultado.png)
 
 
 ## Instalação 
