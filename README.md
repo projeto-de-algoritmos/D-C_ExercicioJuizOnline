@@ -18,6 +18,8 @@ Exercícios Resolvidos:
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)  |  Medium | Leetcode |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  |  Medium | Leetcode |
 
+Mais detalhes dos exercícios foram explicados nesse [vídeo](apresentacao.mp4), que é facilmente encontrado em nosso repositório.
+
 ## Screenshots
 
 ### 775. Global and Local Inversions
